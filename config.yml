@@ -1,18 +1,18 @@
-title: Reviewing pull requests
+title: Revisando solicitudes de extracción
 description: See how collaboration works on GitHub and start building great things, together.
 tags:
   - GitHub
 template:
-  name: reviewing-a-pull-request
-  repo: reviewing-a-pull-request-template
+  name: revisar-pull-request
+  repo: revisar-pull-request-plantilla
 before:
   - type: updateBranchProtection
   - type: createIssue
     title: Welcome
     body: 01_intro.md
 steps:
-  - title: Assign Yourself
-    description: Assign yourself to the first issue in this repository.
+  - title: Asígnate
+    description: Asígnate a ti misma a la primera propuesta en este repositorio.
     event: issues.assigned
     link: "{{ repoUrl }}/issues/1"
     actions:
@@ -21,7 +21,7 @@ steps:
         operator: ===
         right: "%user.username%"
       - type: createPullRequest
-        title: Update Game Instructions
+        title: Actualiza las instrucciones del juego
         body: 02_review-101.md
         head: game-instructions
         action_id: pr2
@@ -34,8 +34,8 @@ steps:
       - type: closeIssue
         issue: Welcome
 
-  - title: Comment on a pull request
-    description: Comment on the pull request opened in your repository.
+  - title: Comenta en una solicitud de extracción
+    description: Crea un comentario en la solicitud de extracción añadida a tu repositorio.
     event: pull_request_review.submitted
     link: "{{ repoUrl }}/pull/2"
     actions:
@@ -47,15 +47,15 @@ steps:
             right: "commented"
           - left: "%payload.pull_request.title%"
             operator: ===
-            right: Update Game Instructions
+            right: Actualiza las instrucciones del juego
         else:
           - type: respond
             with: error.md
       - type: respond
         with: 03_successful-comment.md
 
-  - title: Approve a pull request
-    description: Approve the pull request so that it can be merged.
+  - title: Aprueba la solicitud de extracción.
+    description: Aprueba la solicitud de extracción para que pueda ser fusionada.
     event: pull_request_review.submitted
     link: "{{ repoUrl }}/pull/2"
     actions:
@@ -68,7 +68,7 @@ steps:
       - type: deleteBranch
         branch: game-instructions
       - type: createPullRequest
-        title: Change Tetris Colors
+        title: Cambia los colores del tetris
         body: 04_requesting-changes.md
         head: update-colors
         action_id: pr3
@@ -77,8 +77,8 @@ steps:
         data:
           url: "%actions.pr3.data.html_url%"
 
-  - title: Requesting changes
-    description: Leave a review that is requesting changes.
+  - title: Solicita cambios
+    description: Deja una revisión que solicite algunos cambios.
     event: pull_request_review.submitted
     link: "{{ repoUrl }}/pull/3"
     actions:
@@ -108,8 +108,8 @@ steps:
       - type: respond
         with: 05_changes-requested.md
 
-  - title: Practice reviews
-    description: Approve the pull request that has been changed.
+  - title: Practica revisiones
+    description: Aprueba la solicitud de extracción después de que haya sido modificada.
     event: pull_request_review.submitted
     link: "{{ repoUrl }}/pull/3"
     actions:
@@ -125,8 +125,8 @@ steps:
         data:
           url: "%payload.repository.html_url%/compare/update-readme?expand=1"
 
-  - title: Open a pull request from readme-update
-    description: Create a pull request to learn about suggesting changes.
+  - title: Abre una solicitud de extracción desde readme-update
+    description: Crea una solicitud de extracción para aprender acerca de cómo sugerir cambios.
     event: pull_request
     link: "{{ repoUrl }}/compare/readme-update?expand=1"
     actions:
@@ -151,8 +151,8 @@ steps:
           # !! We don't ask the learner to turn on pages, so this is just a guess and won't translate to GHES
           pagesUrl: https://%user.username%.github.io/github-games/
 
-  - title: Apply the suggestion
-    description: Implement a change from a suggested change.
+  - title: Aplica la sugerencia
+    description: Implementa un cambio desde una sugerencia de cambio.
     event: pull_request.synchronize
     link: "{{ repoUrl }}/pulls"
     actions:
@@ -160,8 +160,8 @@ steps:
         event: APPROVE
         body: 08-suggest-merge.md
 
-  - title: Merge the pull request
-    description: Merge the pull request after applying the suggested change.
+  - title: Fusiona la solicitud de extracción
+    description: Fusiona la solicitud de extracción despúes de aplicar el cambio sugerido.
     event: pull_request.closed
     link: "{{ repoUrl }}/pulls"
     actions:
