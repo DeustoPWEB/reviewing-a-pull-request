@@ -1,21 +1,21 @@
-Thanks for opening this pull request, @{{ user.username}}. 
+Gracias por abrir esta solicitud de extracción, @{{ user.username}}. 
 
 ```suggestion
-You can play the game at: {{ pagesUrl }}
+Puedes jugar en: {{ pagesUrl }}
 ```
 
-I've made a suggested change to this pull request because I think you should link your version of the game in your README file. I made this suggestion by creating a review comment that uses some :sparkle: special :sparkle: formatting.
+He hecho una sugerencia de cambio a esta solicitud de extracción porque creo que deberías enlazar a tu versión del juego en el archivo README. He creado esta sugerencia añadiendo un comentario de revisión que utiliza un formateo :sparkle: especial :sparkle:.
 
-It looks like this:
+Tiene este aspecto:
 
     ```suggestion
-    You can play the game at: {{ pagesUrl }}
+    Puedes jugar en: {{ pagesUrl }}
     ```
 
-### :keyboard: Activity: Apply the suggestion
+### :keyboard: Actividad: Aplica la sugerencia
 
-1. Click **Commit suggestion**
-2. Enter a commit message
-3. Click **Commit changes**
+1. Haz clic en **Commit suggestion**
+2. Introduce un mensaje de confirmación
+3. Haz clic en **Commit changes**
 
-For more information about suggested changes, check out this [GitHub Help](https://help.github.com/articles/incorporating-feedback-in-your-pull-request) article.
+Para más información acerca de sugerir cambios, recurre a este artículo de [la Ayuda de GitHub](https://help.github.com/articles/incorporating-feedback-in-your-pull-request) article.

@@ -1,50 +1,50 @@
-# Using `request changes` on a pull request
+# Usando requerir cambios -- `request changes` en una solicitud de extracción
 
-Thanks again for all your help on that last pull request. With our powers combined, _anything_ is possible! This next change might introduce some new changes that aren't going to look great.
+Gracias otra vez por toda tu ayuda en esa última solicitud de extracción. Con nuestro poder combinado, ¡_cualquier cosa_ es posible! Este próximo cambio podría introducir algunos cambios que no van a tener buen aspecto.
 
-Sometimes, the author might identify that something isn't working. They might need a helping hand :wave: to solve the problem. In other instances, it might only work in their environment. When reviewing a pull request, look at and test the code to pinpoint any bugs or unexpected behavior.
+A veces, el autor podría identificar algo que no está funcionando. Podrían necesitar que alguien les eche una mano :wave: para resolver el problema. En otras ocasiones, podría solamente funcionar en su equipo. Cuando revises una solicitud de extracción, mira y prueba el código para identificar cualquier error o comportamiento inesperado.
 
-### Writing a review
+### Escribir una revisión
 
-#### Review the `diff`
+#### Revisa la `diff`
 
-Reviewing the `diff`, the comparison of the proposed code, in the context of the whole project. Could it introduce performance problems, or security vulnerabilities? Try to predict unintended consequences that this change could cause.
+Revisa la `diff`, la comparación del código propuest, en el contexto del proyecto en su conjunto. ¿Podría introducir problemas de rendimiento o vulnerabilidades de seguridad? Intenta predecir posibles consecuencias indeseadas que este cambio podría causar.
 
-#### Try it out
+#### Pruébalo
 
-For most things, actually trying out the proposed change is a good idea. This makes it a lot easier to tell if the actual change matches the intention. You can do this by:
+En la mayoría de ocasiones, probar el cambio propuesto es una buena idea. Esto hace que sea mucho más fácil distinguir si el cambio realmente se ajusta a la intención. Puedes hacer esto de las siguientes maneras:
 
-- Cloning the repository, and checking out to the branch compared in the pull request. Run the application in your local development environment.
-- Deploying the pull request to a review-lab or staging environment (as appropriate).
+- Clona el repositorio, y cámbiate (o _check out_) a la rama que se compara en la solicitud de extracción. Ejecuta la aplicación en tu entorno local de desarrollo.
+- Impementa la solicitud de extracción a un laboratorio de revisión o entorno intermedio (según sea apropiado).
 
-When summarizing your review, let the author know if you completed any of these tests.
+Cuando resumas tu revisión, informa al autor de si has realizado algún test o prueba de este tipo.
 
-#### Empathy and Constructive Feedback
+#### Empatía y feedback constructivo
 
-The goal of providing feedback on a pull request is to ensure that the best possible change is being added. Sometimes, a change isn't addressing the problem in the best possible way. It's the reviewer's responsibility to provide meaningful and constructive feedback.
+El objetivo de ofrecer feedback en una solicitud de extracción es asegurarse de que se incorpora el mejor cambio posible. A veces un cambio no afronta el problema de la mejora manera. Es responsabilidad del revisor ofrecer feeedback significativo y constructivo.
 
-### Requesting Changes 101
+### Requerir cambios
 
-Before you submit your review, your line comments are pending and only visible to you. You can edit pending comments anytime before you submit your review. To cancel a pending review and its pending comments, scroll down to the end of the page in the Conversation tab. Then click **Cancel review**.
+Antes de que envíes tu revisión, tus comentarios en línea figuran como pendientes y son solamente visibles para ti. Puedes editar comentarios pendientes en cualquier momento antes de enviar la revisión. Para cancelar una revisión pendiente y todos sus comentarios pendientes, haz scroll hasta el final de la página en la pestaña "Conversation", y haz clic en **Cancel review**.
 
-## Step 4: Leave a review that asks for changes
+## Paso 4: Deja una revisión que requiere algunos cambios
 
-If you could check out this code for me and tell me what is wrong, that would be fantastic.
+Si pudieras comprobar este código por mí y decirme dónde está el problema, sería genial.
 
-### :keyboard: Activity: Requesting changes
+### :keyboard: Actividad: Requerir cambios
 
-1. On the pull request, click **Files changed**
-1. Hover over the line of code where you'd like to add a comment, and click the blue comment icon
-1. In the comment window, type your comment
-1. Click **Start a review**
-    - If you have already started a review, you can click **Add review comment**
-1. Above the changed code, click **Review changes**
-1. Type a comment summarizing your feedback on the proposed changes
-    - _Note: The problem here is that too many Tetris pieces are the same color. In your review, you might want to suggest that I choose colors which would be easier to see when playing the game._
-1. Select **Request changes** to submit feedback introducing changes necessary before merging
-1. Click **Submit review**
+1. En la solicitud de extracción, haz clic en **Files changed**
+1. Coloca el cursor sobre la línea de código donde te gustaría añadir un comentario, y haz clic en el icono azul de comentario
+1. En la ventana de comentarios, redacta tu comentario
+1. Haz clic en **Start a review**
+    - Si ya has iniciado una revisión, puedes hacer clic en **Add review comment**
+2. Encima del código modificado, haz clic en **Review changes**
+3. Escribe un comentario que resuma tu feedback sobre los cambios propuestos
+    - _Nota: El problema aquí es que demasiadas piezas del Tetris tienen el mismo color. En tu revisión, podrías sugerir que escoja colores que sean más fáciles de distinguir durante el juego._
+4. Selecciona **Request changes** para enviar feedback que introduzca los cambios necesarios antes de combinar
+5. Haz clic en **Submit review**
 
 <hr>
-<h3 align="center">Return to this pull request for my next comment</h3>
+<h3 align="center">Vuelve a esta solicitud de extracción para mi siguiente comentario</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

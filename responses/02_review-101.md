@@ -1,38 +1,38 @@
-# Commenting on Pull Requests
+# Comentar solicitudes de extracción
 
-As a collaborator on a repository, you will get and give pull request reviews before merging code. This is important! It ensures quality code and maintains momentum of changes to your project.
+Como colaborador de un repositorio, aportarás y recibirás revisiones de solicitudes de extracción antes de combinar código. ¡Esto es importante! Asegura la calidad del código y mantiene un registro de la motivación de los cambios realziados a tu proyecto.
 
-As you can see, I've opened this pull request and requested you as a reviewer. Pull requests are places to _share_ the changes made to the repository.
+Como puedes ver, he abierto esta solicitud de extracción y te he asignado como revisor. Las solicitudes de extracción son lugares donde _compartir_ los cambios realizados al repositorio.
 
-### Responsibilities of a reviewer
+### Responsibilidades de un revisor
 
-As a pull request reviewer, your role is to help the pull request author (thats me!) by making sure:
+Como revisor de la solicitud de extracción, tu papel es ayudar al autor de la solicitud de extracción (o sea, yo) asegurándote de que:
 
-- Code destined for production is of the highest quality
-- Intentional shortcuts (technical debt) are commented on and confirmed
-- The greater team is aware of potential risks associated with changes
+- El código destinado a la versión final es de calidad superior
+- Los atajos intencionados (deuda técnica) han sido comentados y confirmados
+- El equipo en su conjunto es consciente de riesgos potenciales asociados con los cambios
 
-These broad responsibilities can include more specific goals, like:
+Estas responsabilidades en el sentido amplio pueden incluir metas más objetivas, como:
 
-- Pointing out potential issues in code quality, security, or business logic
-- Suggesting other reviewers to the author, when warranted
-- Commenting on, approving, or requesting changes on the PR
-- Providing suggestions for alternate or better implementation details
+- Señalar dificultades ptencias en el a calidad del código, la seguridad, o la lógica de negocio
+- Sugerir otros revisores al autor, cuando sea necesario
+- Comentar, aprobar o requerir cambios en la solicitud de extracción
+- Ofrecer sugerencias para implementaciones alternativas o mejores
 
-Some repositories use a [CODEOWNERS](https://help.github.com/articles/about-codeowners/) file. The `CODEOWNERS` file assigns responsibility for certain parts of the code to specific individuals or teams. When the `CODEOWNERS` feature is enabled, only the code owner has the final authority to approve the pull request. Your review may not be a formal approval, but it does show confidence.
+Algunos repositorios usan un archivo [CODEOWNERS](https://help.github.com/articles/about-codeowners/). El archivo `CODEOWNERS` asigna la responsabilidad de ciertas partes del código a individuos o equipos específicos. Cuando la opción `CODEOWNERS` está activada, solamente el propietario del código tiene la autoridad final para aprobar la solicitud de extracción. Tu revisión puede no suponer una aprobación formal, pero puede aportar confianza.
 
-## Step 2: Communicate in pull requests
+## Paso 2: Comunicarse a través de solicitudes de extracción
 
-When an approval or request for changes is not yet needed, consider using **comments**. Comments enable you to inquire about the proposed change early in the review process. You don't need to wait until something is complete to make suggestions.
+Cuando la aprobación o el requerimiento de cambios no son necesarios, puedes usar **comments**. Los comentarios permiten preguntar acerca de los cambios propuestos temprano en el proceso de revisión: no necesitas esperar a que algo esté completado para hacer sugerencias.
 
-### :keyboard: Activity: Comment on my pull request
+### :keyboard: Actividad: Comenta mi solicitud de extracción
 
-1. On the pull request, click **Files changed**
-1. Hover over the line of code where you'd like to add a comment, and click the blue comment icon
-1. In the comment window, type a question or leave a more general comment
-1. When you're done, click **Add single comment**
+1. En la solicitud de extracción, haz clic en **Files changed**
+1. Coloca el cursor sobre la línea de código donde te gustaría añadir un comentario, y haz clic en el icono azul de comentario
+2. En la ventana de comentario, teclea una pregunta o deja un comentario general
+3. Cuando hayas acabado, haz clic en **Add single comment**
 
 <hr>
-<h3 align="center">Return to this pull request for my next comment</h3>
+<h3 align="center">Vuelve a esta solicitud de extracción para mi siguiente comentario</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

@@ -1,7 +1,7 @@
-# Congratulations! :tada:
+# ¡Enhorabuena! :tada:
 
 ![hulatocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
-Nice work helping me with all these pull requests! As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
+Buen trabajo ayudándome con todas esas solicitudes de extracción. Cuando sigas trabajando en GitHub, recuerda que las revisiones de calidad mejoran tus proyectos. Si eres nueva/o en el repositorio, pregunta sobre cuáles son las prácticas habituales de revisión para que puedas contribuir significativamente.
 
 

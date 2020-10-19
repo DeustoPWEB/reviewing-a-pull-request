@@ -1,19 +1,19 @@
-Good pull requests help contributors understand the context. They have a body description detailing the suggested change.
+Las buenas contribuciones a solicitudes de extracción comprenden el contexto. Tienen una descripción en el cuerpo que detalla el cambio sugerido.
 
-Let's edit this pull request to add a body description.
+Vamos a editar esta solciitud de extracción para añadir una descripción al cuerpo:
 
-### :keyboard: Activity: Fixing your pull request
+### :keyboard: Actividad: Arreglando tu solicitud de extracción
 
-1. The first comment on your pull request will have the default text of **No description provided**. Click ![octicon-kebab-horizontal] in the top right corner of the comment box to make an edit.
-1. Add a description of the changes you've made in the comment box. Feel free to add a description of what you’ve accomplished so far. As a reminder, you have:
-    - Left reviews and line comments
-    - Created a file and made a commit
-    - Opened a pull request
-1. Click the green **Update comment** button at the bottom right of the comment box when done.
+1. El primer comentario de tu solicitud de extracción tendrá el texto por defecto **No description provided**. Haz clic en ![octicon-kebab-horizontal] en la esquina superior izquierda de la caja de comentarios para editarlo.
+2. Añade una descripción de los cambios que has hecho en la caja de comentarios. Siéntete libre de añaidr una descripción de lo que has conseguido hasta ahora. A modo de recordatorio:
+    - Has dejado revisiones y comentarios en línea
+    - Has creado un archivo y hecho una confirmación de cambios
+    - Has abierto una solicitud de extracción
+3. Haz clic en el botón verde **Update comment** de la parte inferior derecha de la caja de comentarios cuando hayas acabado.
 
-If you would like help troubleshooting, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+Si necesitas ayuda o tienes problemas, crea un post en el tablón de la [Comunidad GitHub]({{ communityBoard }}). También es posible que quieras buscar tu problema para ver si alguien ha conseguido resolverlo en el pasado.
 
 <hr>
-<h3 align="center">Watch below for my response</h3>
+<h3 align="center">Mira mi respuesta más abajo</h3>
 
 [octicon-kebab-horizontal]: https://unpkg.com/octicons/build/svg/kebab-horizontal.svg

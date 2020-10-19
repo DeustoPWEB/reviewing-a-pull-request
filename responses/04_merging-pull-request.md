@@ -1,8 +1,8 @@
-## Great work!
+## ¡Gran trabajo!
 
-Thanks for approving my pull request. Now, I can merge it into our project.
+Gracias por aprobar mi solicitud de extracción. Ahora puedo combinarla a nuestro proyecto.
 
 
 <hr>
-<h3 align="center">Let's continue working in <a href="{{ url }}">the next pull request</a>
+<h3 align="center">Sigamos trabajando en <a href="{{ url }}">la siguiente solicitud de extracción</a>
 </h3>

@@ -1,1 +1,1 @@
-Now that you've opened a [pull request]({{ url }}) for us to continue working together, I'm going to close this issue.
+Ahora que ya has abierto una [solicitud de extracción]({{ url }}) para que podamos seguir trabajando juntos, voy a cerrar esta incidencia.

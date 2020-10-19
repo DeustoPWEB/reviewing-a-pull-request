@@ -1,37 +1,37 @@
-## Reviewing Pull Requests
+## Revisar solicitudes de extracción
 
-Nice work @{{ user.username }}. By providing feedback, you've enabled me to reevaluate how I am making my desired change. But, pull request reviews don't stop at commenting. You can also `approve` or `request changes` on my pull request.
+Bien hecho @{{ user.username }}. Ofreciendo feedback me has permitido reevalaur cómo estoy realizado el cambio deseado. Pero las solicitudes de extracción no acaban con los comentarios. También puedes aprobar -- `approve` o solicitar cambios -- `request changes` en mi solicitud de extracción.
 
-When you get asked to review something, you should acknowledge the request. Acknowledging a review request could take several forms. It could be leaving a comment on the pull request or leaving a review. In some cases, it could be rejecting the review request altogether.
+Cuando alguien te pide que revises algo, deberías reconocer la solicitud. Reconocer una solicitud de revisión puede tomar varias formas. Podrías hacerlo dejando un comentario en la solicitud de extracción o dejando una revisión. En algunos casos, podría ser rechazando la solicitud de revisión directamente.
 
-<details><summary>Before you review, some things to consider</summary>
+<details><summary>Antes de que revises, algunas cosas a tener en cuenta</summary>
 
-#### Discern the context
+#### Discierne el contexto
 
-Review the title and body of the pull request to understand the intended change. This should help you identify limitations, boundaries, and other important context.
+Revisa el título y el cuerpo de la solicitud de extracción para entender la intencionalidad del cambio. Esto debería ayudarte a identificar limitaciones, límites, y otros elementos importantes del contexto.
 
-#### Observing the progress
+#### Observa el progreso
 
-As a reviewer, there are certain things to look for when identifying how to best provide feedback. In early stages, reviews should focus on the general direction of the changes. Identify if the goal is possible, rather than nitpicking the style, polish, or wording. Pull requests that are closer to merging should receive a robust review. Thorough testing is one of many ways to ensure the changes won't break the project.
+Como revisor, hay algunas cosas a las que prestar atención para identificar cuál es la mejor forma de ofrecer feedback. En los primeros momentos, las revisiones deberían centrarse en la dirección general de los cambios. Identifica el objetivo si es posible, en lugar de ceñirte a comentar el estilo o la redacción. Las solicitudes de extracción que están más cercanas a combinarse deberían recibir revisiones robustas. El testeo concienzudo es una de las muchas maneras de asegurar que los cambios no romperán el proyecto.
 
-Regardless of timing, focus your feedback on the most essential changes. Suggest changes for minor issues within the pull request. When suggesting major changes, open a separate pull request against the author's branch.
+Independientemente del momento del que se trate, centra tu feedback en los cambios más esenciales. Sugiere cambios para los asuntos menores dentro de la solicitud de extracción. Cuando tengas que sugerir cambios mayores, abre una solicitud de extracción por separado contra la rama del autor.
 
 </details>
 
-## Step 3: Leave a review
+## Paso 3: Deja una revisión
 
-I've made some changes to this branch and would love :heart: it if you could `approve` this pull request. For now, just approving the pull request will suffice. In a moment we will look at requesting changes. :+1:
+He hecho algunos cambios a esta rama y me encantaría :heart: si pudieras aprobar -- `approve` esta solicitud de extracción. Por ahora, es suficiente solamente con que apruebes la solicitud de extacción. En un momento veremos cómo requerir cambios. :+1:
 
-### :keyboard: Activity: Approve a pull request
+### :keyboard: Actividad: Aprueba una solicitud de extracción
 
-1. In the pull request, click the **Files changed** tab
-1. Review the changes in the pull request by commenting on specific lines
-1. Above the changed code, click **Review changes**
-1. Type a comment summarizing your feedback on the proposed changes
-1. Select **Approve** to approve merging the changes proposed in the pull request
-1. Click **Submit review**
+1. En la solicitud de extracción, haz clic en la pestaña **Files changed**
+2. Revisa los cambios de la solicitud de extracción comentando en líneas específicas
+3. Encima del código modificado, haz clic en **Review changes**
+4. Escribe un comentario que resuma tu feedback sobre los cambios propuestos
+5. Selecciona **Approve** para aproabar que los cambios sugeridos en la solicitud de extracción se combinen
+6. Haz clic en **Submit review**
 
 <hr>
-<h3 align="center">Return to this pull request for my next comment</h3>
+<h3 align="center">Vuelve a esta solicitud de extracción para mi siguiente comentario</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

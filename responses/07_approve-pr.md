@@ -1,9 +1,9 @@
-## Step 6: Merge this pull request
+## Paso 6: Combina esta solicitud de extracción
 
-Thanks for making these changes to the project. This looks great, and these changes are ready to merge. :+1: If you requested a review from a friend, you can wait for them to approve your pull request if you'd like. If not, continue with the activity below.
+Gracias por hacer estos cambios al proyecto. Tiene muy buena pinta, y los cambios están listos para combinarse. :+1: Si solicitaste una revisión de alguna amiga, puedes esperar a que aprueben tu solicitud de extracción si quieres. Si no, continúa con la actividad de aquí abajo.
 
-### :keyboard: Activity: Merge
+### :keyboard: Actividad: Combinar
 
-1. Merge this pull request, and delete your branch
+1. Combina esta solicitud de extracción, y elimina tu rama
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

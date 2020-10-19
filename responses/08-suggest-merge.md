@@ -1,9 +1,9 @@
-## Step 7: Merge this pull request
+## Paso 7: Combina esta solicitud de extracción
 
-Thanks for accepting my suggested change. Now that the pull request is finished, you should merge the change in and start playing your game!
+Gracias por aceptar el cambio que te sugería. Ahora que la solicitud de extracción está finalizada, deberías combinar los cambios y empezar a jugar con tu juego.
 
-### :keyboard: Activity: Merge pull request
+### :keyboard: Actividad: Combinar la solicitud de extracción
 
-1. Click **Merge pull request**
-1. Click **Confirm merge**
-1. Delete the branch
+1. Haz clic en **Merge pull request**
+1. Haz clic en **Confirm merge**
+1. Elimina la rama

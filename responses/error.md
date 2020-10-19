@@ -1,3 +1,3 @@
-Uh oh @{{ user.username }}, something went wrong! I wasn't expecting this change. Please go over the instructions again and make sure you've followed them as exactly as you can.
+¡Oh oh @{{ user.username }}, algo ha ido mal! No esperaba este cambio. Por favor revisa las instrucciones otra vez y asegúrate de haber seguido los pasos tan exactamente como seas capaz.
 
-If you would like help troubleshooting, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+Si necesitas ayuda o tienes problemas, crea un post en el tablón de la [Comunidad GitHub]({{ communityBoard }}). También es posible que quieras buscar tu problema para ver si alguien ha conseguido resolverlo en el pasado.

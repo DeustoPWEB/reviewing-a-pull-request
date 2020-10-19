@@ -1,26 +1,26 @@
-## Welcome!
+## Bienvenida
 
-Hello and welcome! In this course you will learn how you can get your best work done in pull requests.  You'll learn when and how to request a review, how to review someone else's code, and how to respond to reviews. To do this, we'll be playing around with the code in this repository that makes a simple Tetris game.
+¡Hola, bienvenida/o! En este curso aprenderás cómo terminar de hacer tu mejor trabajo mediante solicitudes de extracción. Aprenderás cuándo y cómo solicitar una revisión, cómo revisar el código de otra persona y cómo responder a revisiones. Para todo esto, estaremos jugando con el código de este repositorio que crea un simple juego de Tetris.
 
-If you'd like, you can use [GitHub Pages](https://pages.github.com/) to host your Tetris game. Just go to the **Settings** tab of this repository. Scroll down to **GitHub Pages** and select `master` as a **Source**. 
+Si quieres, puedes usar [GitHub Pages](https://pages.github.com/) para alojar este juego de Tetris. Simplemente accede a la pestaña **Settings** de este repositorio. Haz scroll hasta **GitHub Pages** y selecciona `master` como **Source**. 
 
-### New to GitHub?
+### ¿GitHub es nuevo para ti?
 
-For this course, you'll need some background knowledge. If you need a refresher on the GitHub flow, check out [the Introduction to GitHub course]({{ host}}/courses/introduction-to-github).
+Para este curso necesitas algo de conocimiento previo. Si necesitas un recordatorio del flujo de trabajo de GitHub, revisa el curso de [Introducción a GitHub](https://lab.github.com/DeustoPWEB/introduccion-a-github).
 
-## Pull Requests Reviews 101
+## Revisiones de solicitudes de extración, paso 0
 
-Reviewing a pull request is an opportunity to examine another contributor's changes. While reviewing a pull request, you can extrapolate how someone else solved a problem. It's an awesome opportunity to learn more about how the code works and how others solve problems. Reviewing a pull request is a great learning opportunity!
+Revisar una solicitud de extracción es una oportunidad para examinar los cambios propuestos por otra persona. Mientras revisas una solicitud de extracción, puedes extrapolar cómo alguien ha resuelto un problema. Es una oportunidad estupenda para aprender más acerca de cómo funciona el código y cómo otros resuelven problemas. Revisar una solicitud de extracción es una gran oportunidad de aprendizaje.
 
-## Step 1: Add assignees for issues and pull requests
+## Paso 1: Asigna incidencias (o _issues_) y solicitudes de extracción (o _pull requests_)
 
-Assignees on issues and pull requests let other team members know who is responsible. The assignee oversees the issue or pull request in an accessible and visible way.
+Las asignaciones en incidencias y solicitudes de extracción permiten a otros miembros del equipo saber quién es responsable (o _asignees_). Las personas a las que se asignada una incidencia o solicitud de extracción la revisa de manera accesible y visible a los demás.
 
-### :keyboard: Activity: Assign yourself to this issue
+### :keyboard: Actividad: Asígnate a esta incidencia
 
-1. On the right side of the screen, click the `assign yourself` text under the **Assignees** section
+1. En el lado derecho de la pantalla, haz clic en el texto `assign yourself` bajo la sección **Assignees**
 
 <hr>
-<h3 align="center">I'll respond below for your next step</h3>
+<h3 align="center">Responderé debajo con tu próximo paso</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

@@ -1,14 +1,14 @@
 title: Revisando solicitudes de extracción
-description: See how collaboration works on GitHub and start building great things, together.
+description: Aprende cómo funciona la colaboración con GitHub y empieza a construir grandes cosas, junto con otras personas.
 tags:
   - GitHub
 template:
-  name: revisar-pull-request
+  name: revisar-pr
   repo: revisar-pull-request-plantilla
 before:
   - type: updateBranchProtection
   - type: createIssue
-    title: Welcome
+    title: Bienvenida
     body: 01_intro.md
 steps:
   - title: Asígnate
@@ -32,7 +32,7 @@ steps:
         data:
           url: "%actions.pr2.data.html_url%"
       - type: closeIssue
-        issue: Welcome
+        issue: Bienvenida
 
   - title: Comenta en una solicitud de extracción
     description: Crea un comentario en la solicitud de extracción añadida a tu repositorio.
@@ -54,7 +54,7 @@ steps:
       - type: respond
         with: 03_successful-comment.md
 
-  - title: Aprueba la solicitud de extracción.
+  - title: Aprueba la solicitud de extracción
     description: Aprueba la solicitud de extracción para que pueda ser fusionada.
     event: pull_request_review.submitted
     link: "{{ repoUrl }}/pull/2"

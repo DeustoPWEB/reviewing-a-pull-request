@@ -1,24 +1,24 @@
-## Requesting changes
+## Requerir cambios
 
-Thanks for making that suggestion on my change. In my excitement to ship more stuff, I must have gotten distracted while picking colors. :grimacing: I'm making a change to this branch to fix my mistake.
+Gracias por hacer esa sugerencia sobre mis cambios. En mi excitación por lanzar más cosas, he debido de distraerme al seleccionar los colores. :grimacing: Voy a hacer un cambio a esta rama para corregir mi error.
 
-Not all the pull request reviews you perform in the future will decide the color of the blocks in our Tetris game. :smile:
+No todas las revisiones de solicitudes de extracción que hagas en el futuro decidirán el color de los bloques de nuestro juego de Tetris. :smile:
 
-Although you may want to leave short comments like: 👍, 👎🏽, awesome!, or no; these don't give the author much detail. Provide comments **like the following** to enable the author of the pull request to respond:
+A pesar de que podrías querer dejar comentarios cortos como 👍, 👎🏽, ¡genial! o no; estos en realidad no ofrecen demasiados detalles al autor. Ofrece comentarios **como los siguientes** para permitir que el autor de la solicitud de extracción pueda responder:
 
-- This looks like it’ll be helpful to our users, but I’m not sure about the flow. I also have some concerns about the efficiency of these queries.
-- Although this feature might be useful, do we have any data that identifies that our users need it?
+- Esto parece útil para nuestros usuarios, pero no estoy segura del flujo. También tengo algunas dudas sobre la eficiencia de esas solicitudes.
+- A pesar de que esta funcionalidad podría ser útil, ¿tenemos algún dato que justifique que nuestros usuarios lo necesitan?
 
-## Step 5: Practice reviews
+## Paso 5: Practica las revisiones
 
-While you were reading this, I made your suggested changes. If you could approve my pull request, that would be awesome!
+Mientras lees esto, he realizado los cambios que sugerías. Si pudieras aprobar mi solicitud de extracción, sería genial.
 
-### :keyboard: Activity: Give another pull request review
+### :keyboard: Actividad: Deja otra revisión en la solicitud de extracción
 
-1. In the pull request, scroll down to the bottom and look for your own review status
-1. Next to your review, click **Approve changes**
+1. En la solicitud de extracción, haz scroll hasta abaho y busca el estado de tu propia revisión
+2. Al lado de tu revisión, haz clic en **Approve changes**
 
 <hr>
-<h3 align="center">Return to this pull request for my next comment</h3>
+<h3 align="center">Vuelve a esta solicitud de extracción para mi siguiente comentario</h3>
 
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response, wait a few seconds and refresh the page for your next steps._
+> _A veces respondo demasiado rápido y no doy tiempo a que se actualice la página. Si realizas alguna acción prevista y no recibes ninguna respuesta, espera unos segundos y actualiza la página para los próximos pasos._

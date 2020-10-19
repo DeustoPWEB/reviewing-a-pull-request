@@ -1,5 +1,5 @@
-It looks like you've given me an approval, but the code isn't ready yet.
+Parece que me has dado una aprobación, pero el código no está listo todavía.
 
-Luckily, you can change your mind about reviews. Go ahead and leave a review again, but make sure to select "request changes" this time.
+Afortunadamente, puedes cambiar de opinión con respecto a las revisiones. Adelante, deja una revisión otra vez pero asegúrate de requerir cambios -- seleccionar "request changes" esta vez.
 
-If you would like help troubleshooting, create a post on the [GitHub Community]({{ communityBoard }}) board. You might also want to search for your issue to see if other people have resolved it in the past.
+Si necesitas ayuda o tienes problemas, crea un post en el tablón de la [Comunidad GitHub]({{ communityBoard }}). También es posible que quieras buscar tu problema para ver si alguien ha conseguido resolverlo en el pasado.
