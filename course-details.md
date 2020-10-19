@@ -1,41 +1,41 @@
-This course will dive into how you can get your best work done by identifying when and how to request a review, how to perform a review for someone else's pull request, and other awesome collaboration methods.
+Este curso te sumergirá en las formas de conseguir la mejor calidad para tus trabajos identificando cuándo y cómo solicitar una revisión, cómo realizar una revisión en solicitudes de extracción de otras personas y otros métodos fantásticos de colaboración.
 
-All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
+Todos los grandes proyectos empiezan con colaboración. Las solicitudes de extracción son los cimientos del trabajo en equipo en GitHub — y las solicitudes de extracción te dan la capacidad de trabajar en equipo y discutir cambios específicos para una solicitud de extracción a través de comentarios, requerimientos de cambios o aprobaciones.
 
-## What you'll learn
+## Qué aprenderás
 
-We'll answer common questions like:
-- What is a pull request?
-- How do I request, review, or comment on a pull request?
-- How do I accept changes introduced by a pull request review?
-- What are the responsibilities of a reviewer?
-- What's a CODEOWNERS file?
-- What's a diff and how do I use it?
-- How do I implement changes from a pull request review?
-- How can I suggest a change when reviewing a pull request?
+Responderemos a preguntas comunes como:
+- ¿Qué es una solicitud de extracción?
+- ¿Cómo requiero cambios, reviso o comento en una solicitud de extracción?
+- ¿Cómo acepto cambios introducidos en una revisión de una solicitud de extracción?
+- ¿Cuáles son las responsabilidades de un revisor?
+- ¿Qué es un archivo CODEOWNERS?
+- ¿Qué es una diff y cómo puedo usarla?
+- ¿Cómo implemento cambios de una revisión de solicitud de extracción?
+- ¿Cómo puedo sugerir un cambio cuando estoy revisando una solicitud de extracción?
 
-And when you're done you'll be able to:
-- Create a pull request
-- Comment on pull requests
-- Leave reviews on pull requests
-- Know what’s expected when reviewing pull requests
-- Request pull request reviews
-- Accept changes introduced by a pull request review
+Y cuando hayas acabado serás capaz de:
+- Crear una solicitud de extracción
+- Comentar en solicitudes de extracción
+- Dejar revisiones en solicitudes de extracción
+- Saber qué se espera cuando se revisa una solicitud de extracción
+- Pedir revisiones para tus solicitudes de extracción
+- Aceptar cambios introducidos en una revisión de una solicitud de extracción
 
 
-## What you'll build
-We'll be building a tetris game!
+## Qué vas a construir
+¡Vamos a crear un juego de Tetris!
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/57373296/75575281-e332b200-5a2d-11ea-94da-8ce317ab1206.gif" width="350" height="350">
 </p>
 
-## Prerequisites
-None. This course is a great introduction to using pull requests.
+## Prerrequisitos
+Ninguno. Este curso es una buena introducción para empezar a usar solicitudes de extracción.
 
-## Projects used
-- This course uses a javascript [tetris game](https://github.com/jakesgordon/javascript-tetris)
+## Proyectos usados
+- Este curso utiliza un [juego de tetris](https://github.com/jakesgordon/javascript-tetris) en Javascript
 
-## Audience
+## Audiencia
 
-Developers, new GitHub users, users new to Git, students, managers, teams
+Desarrolladores, nuevos usuarios de GitHub, nuevos usuarios de Git, estudiantes, gestores, equipos
