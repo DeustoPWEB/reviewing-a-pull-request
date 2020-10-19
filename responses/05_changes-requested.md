@@ -15,7 +15,7 @@ Mientras lees esto, he realizado los cambios que sugerías. Si pudieras aprobar 
 
 ### :keyboard: Actividad: Deja otra revisión en la solicitud de extracción
 
-1. En la solicitud de extracción, haz scroll hasta abaho y busca el estado de tu propia revisión
+1. En la solicitud de extracción, haz scroll hasta abajo y busca el estado de tu propia revisión
 2. Al lado de tu revisión, haz clic en **Approve changes**
 
 <hr>
